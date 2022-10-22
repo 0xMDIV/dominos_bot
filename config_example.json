@@ -1,7 +1,6 @@
 {
     "bot": {
         "token": "",
-        "chat_id": "",
         "version": "0.0.1"
     },
     "dominos_url": "https://www.dominos.de/angebote/30-exklusiv-rabatt"
